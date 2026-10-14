@@ -1,0 +1,6 @@
+{
+  "name": "Xử lý ảnh sản phẩm – camerawifivn.com",
+  "description": "Chuẩn bị ảnh sản phẩm thiết bị mạng và camera: đặt tên file chuẩn SEO, viết alt text tiếng Việt, nén WebP, chuyển video sang GIF dưới 4MB, đối chiếu thông số và xuất file Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
